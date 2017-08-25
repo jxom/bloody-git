@@ -1,6 +1,6 @@
 # bloody-git [![Build Status](https://travis-ci.org/jxom/bloody-git.svg?branch=master)](https://travis-ci.org/jxom/bloody-git)
 
-> BLOODY PUSH
+> `bloody push`
 
 
 ## Install
@@ -20,12 +20,10 @@ $ bloody-git --help
 
 ```
 $ bloody-git zsh
-
 Successfully bloody binded 'git' to 'bloody'
 Restart your bloody shell to use it.
 
 $ bloody
-
 usage: git [--version] [--help] [-C <path>] [-c name=value]
            [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
            [-p | --paginate | --no-pager] [--no-replace-objects] [--bare]
